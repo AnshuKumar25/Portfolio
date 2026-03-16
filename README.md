@@ -178,7 +178,7 @@ No server setup is required since it is a **static website**.
 
 **Anshu Kumar**
 
-Computer Engineering Student
+Computer Science & Engineering Student
 
 ---
 
